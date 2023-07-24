@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pindakaasconfituur
-- I’m interested in Flutter development
+- I’m interested in IOS development
 
 
 <!---
